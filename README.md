@@ -3,3 +3,5 @@ Furthermore, acoustic indices about several characteristics of these recordings 
 
 The code (aptscript) is the analysis of the indices, where average values for different times during the day, seasons and locations were calculated. 
 ((it was my first project ever in R, which is very obvious))
+
+The PDFs are the final graphs from the code called graphs.
